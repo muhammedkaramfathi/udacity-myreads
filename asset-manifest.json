@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/udacity-myreads/static/css/main.6afb259f.chunk.css",
+    "main.js": "/udacity-myreads/static/js/main.4e15d87b.chunk.js",
+    "main.js.map": "/udacity-myreads/static/js/main.4e15d87b.chunk.js.map",
+    "runtime-main.js": "/udacity-myreads/static/js/runtime-main.6a22341c.js",
+    "runtime-main.js.map": "/udacity-myreads/static/js/runtime-main.6a22341c.js.map",
+    "static/js/2.8a72bcc4.chunk.js": "/udacity-myreads/static/js/2.8a72bcc4.chunk.js",
+    "static/js/2.8a72bcc4.chunk.js.map": "/udacity-myreads/static/js/2.8a72bcc4.chunk.js.map",
+    "index.html": "/udacity-myreads/index.html",
+    "static/css/main.6afb259f.chunk.css.map": "/udacity-myreads/static/css/main.6afb259f.chunk.css.map",
+    "static/js/2.8a72bcc4.chunk.js.LICENSE.txt": "/udacity-myreads/static/js/2.8a72bcc4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/udacity-myreads/static/media/arrow-drop-down.4378492a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a22341c.js",
+    "static/js/2.8a72bcc4.chunk.js",
+    "static/css/main.6afb259f.chunk.css",
+    "static/js/main.4e15d87b.chunk.js"
+  ]
+}
